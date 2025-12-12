@@ -36,7 +36,7 @@ str(data)
 
 conversation <- data %>%
   select(post_id, post_text)
-
+#define your codes##
 codes <- data %>%
   select(starts_with("code_"))
 ena_data <- ena.accumulate.data(
@@ -199,3 +199,4 @@ welch_d2 <- t.test(
 # View results
 welch_d1
 welch_d2
+
