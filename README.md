@@ -1,7 +1,7 @@
 # ENA.Forum.Analysis
 Overview
 
-This repository accompanies the article [insert article title] and provides reproducible materials for the Social Network Analysis (SNA) and Epistemic Network Analysis (ENA) conducted in the study. Because the original forum data cannot be shared for ethical and copyright reasons, this repository includes:
+This repository accompanies the article Agency in networks: Exploring relational agency and core–Periphery structures in an online teacher communit and provides reproducible materials for the Social Network Analysis (SNA) and Epistemic Network Analysis (ENA) conducted in the study. Because the original forum data cannot be shared for ethical and copyright reasons, this repository includes:
 
 anonymised codebook
 
